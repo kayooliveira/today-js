@@ -1,0 +1,26 @@
+{
+  "name": "@kayooliveira/today-js",
+  "version": "1.0.0",
+  "description": "A package updated every single day to tell you what day it is.",
+  "main": "index.js",
+  "types": "index.d.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "update-day": "node scripts/update-day.js"
+  },
+  "keywords": [
+    "meme",
+    "today",
+    "daily"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/kayooliveira/today-js.git"
+  },
+  "bugs": {
+    "url": "https://github.com/kayooliveira/today-js/issues"
+  },
+  "homepage": "https://github.com/kayooliveira/today-js#readme",
+  "author": "kayooliveira",
+  "license": "ISC"
+}
