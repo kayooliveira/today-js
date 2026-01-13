@@ -1,6 +1,6 @@
 {
   "name": "@kayooliveira/today-js",
-  "version": "2026.1.12",
+  "version": "2026.1.13",
   "description": "A package updated every single day to tell you what day it is.",
   "main": "index.js",
   "types": "index.d.ts",
