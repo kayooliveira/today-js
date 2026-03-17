@@ -1,11 +1,11 @@
-## [2026-03-16] Enterprise Release Notes
+## [2026-03-17] Enterprise Release Notes
 
 ### 🚀 Performance Improvements
-- Audited temporal consistency compliance.
 - Bumped temporal dependencies to latest epoch.
+- Standardized ISO-8601 formatting outputs.
 
 ### 🛡️ Security
-- Re-calibrated daily cron-job with UTC-0 alignments.
+- Adjusted leap-second buffer strategy.
 
 ### 📦 Metadata
 - **Compliance Verified**: ✅
