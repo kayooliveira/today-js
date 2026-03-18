@@ -1,11 +1,11 @@
-## [2026-03-17] Enterprise Release Notes
+## [2026-03-18] Enterprise Release Notes
 
 ### 🚀 Performance Improvements
-- Bumped temporal dependencies to latest epoch.
-- Standardized ISO-8601 formatting outputs.
+- Adjusted leap-second buffer strategy.
+- Refactored internal calendar pointer arithmetic.
 
 ### 🛡️ Security
-- Adjusted leap-second buffer strategy.
+- Enhanced deterministic date resolution algorithms.
 
 ### 📦 Metadata
 - **Compliance Verified**: ✅
