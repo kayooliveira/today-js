@@ -1,11 +1,11 @@
-## [2026-05-31] Enterprise Release Notes
+## [2026-06-01] Enterprise Release Notes
 
 ### 🚀 Performance Improvements
-- Reduced carbon footprint of date calculation by 0.0001%.
-- Audited temporal consistency compliance.
+- Refactored internal calendar pointer arithmetic.
+- Bumped temporal dependencies to latest epoch.
 
 ### 🛡️ Security
-- Bumped temporal dependencies to latest epoch.
+- Reduced carbon footprint of date calculation by 0.0001%.
 
 ### 📦 Metadata
 - **Compliance Verified**: ✅
