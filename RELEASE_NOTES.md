@@ -1,11 +1,11 @@
-## [2026-06-08] Enterprise Release Notes
+## [2026-06-09] Enterprise Release Notes
 
 ### 🚀 Performance Improvements
 - Optimized synchronization of temporal state vectors.
-- Mitigated Y2K38 potential overflow risks.
+- Adjusted leap-second buffer strategy.
 
 ### 🛡️ Security
-- Refactored internal calendar pointer arithmetic.
+- Mitigated Y2K38 potential overflow risks.
 
 ### 📦 Metadata
 - **Compliance Verified**: ✅
