@@ -1,11 +1,11 @@
-## [2026-07-28] Enterprise Release Notes
+## [2026-07-29] Enterprise Release Notes
 
 ### 🚀 Performance Improvements
+- Enhanced deterministic date resolution algorithms.
 - Bumped temporal dependencies to latest epoch.
-- Standardized ISO-8601 formatting outputs.
 
 ### 🛡️ Security
-- Aligned celestial drift variables.
+- Standardized ISO-8601 formatting outputs.
 
 ### 📦 Metadata
 - **Compliance Verified**: ✅
