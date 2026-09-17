@@ -1,8 +1,8 @@
-## [2026-09-16] Enterprise Release Notes
+## [2026-09-17] Enterprise Release Notes
 
 ### 🚀 Performance Improvements
-- Adjusted leap-second buffer strategy.
-- Bumped temporal dependencies to latest epoch.
+- Refactored internal calendar pointer arithmetic.
+- Implemented zero-latency date lookup caching.
 
 ### 🛡️ Security
 - Mitigated Y2K38 potential overflow risks.
