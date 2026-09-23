@@ -1,11 +1,11 @@
-## [2026-09-22] Enterprise Release Notes
+## [2026-09-23] Enterprise Release Notes
 
 ### 🚀 Performance Improvements
 - Refactored internal calendar pointer arithmetic.
-- Optimized synchronization of temporal state vectors.
+- Adjusted leap-second buffer strategy.
 
 ### 🛡️ Security
-- Enhanced deterministic date resolution algorithms.
+- Bumped temporal dependencies to latest epoch.
 
 ### 📦 Metadata
 - **Compliance Verified**: ✅
