@@ -1,7 +1,7 @@
-## [2026-10-07] Enterprise Release Notes
+## [2026-10-08] Enterprise Release Notes
 
 ### 🚀 Performance Improvements
-- Re-calibrated daily cron-job with UTC-0 alignments.
+- Bumped temporal dependencies to latest epoch.
 - Refactored internal calendar pointer arithmetic.
 
 ### 🛡️ Security
